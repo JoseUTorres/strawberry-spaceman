@@ -2,7 +2,12 @@
     "name": "strawberry-spaceman",
     "displayName": "Strawberry Spaceman",
     "description": "A themed based off my wallpaper color palette.",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "joseutorres",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JoseUTorres/strawberry-spaceman"
+    },
     "engines": {
         "vscode": "^1.59.0"
     },
