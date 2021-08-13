@@ -1,0 +1,21 @@
+{
+    "name": "strawberry-spaceman",
+    "displayName": "Strawberry Spaceman",
+    "description": "A themed based off my wallpaper color palette.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Strawberry Spaceman",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Strawberry Spaceman-color-theme.json"
+            }
+        ]
+    }
+}
