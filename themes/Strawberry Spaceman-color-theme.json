@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 		"editor.background": "#2B313C",
-		"editor.foreground": "#ffff",
+		"editor.foreground": "#EEFFFF",
 		"activityBarBadge.background": "#94545D",
 		"sideBarTitle.foreground": "#C4CEC6",
 		"sideBar.background": "#272D37",
@@ -42,7 +42,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#c8d0c8"
+				"foreground": "#EEFFFF"
 			}
 		},
 		{
@@ -51,7 +51,8 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"fontStyle": "bold",
+				"foreground": "#EEFFFF"
 			}
 		},
 		{
@@ -72,6 +73,7 @@
 				"storage.modifier"
 			],
 			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#0086BB"
 			}
 		},
@@ -93,7 +95,11 @@
 				"keyword.operator.assignment",
 				"keyword.operator.comparison",
 				"keyword.operator.arithmetic",
-				"keyword.operator.relational"
+				"keyword.operator.relational",
+				"meta.brace.round",
+				"meta.brace.square",
+				"constant.language.boolean",
+				"keyword.operator.increment"
 			],
 			"settings": {
 				"foreground": "#DA8278",
@@ -108,6 +114,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#f07178"
 			}
 		},
@@ -119,9 +126,11 @@
 				"variable.function",
 				"support.function",
 				"keyword.other.special-method",
-				"variable.other.object.js"
+				"variable.other.object.js",
+				"support.type.property-name.json.comments"
 			],
 			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#A8B6E4"
 			}
 		},
@@ -132,7 +141,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#c8d0c8"
+				"foreground": "#EEFFFF"
 			}
 		},
 		{
@@ -142,6 +151,7 @@
 				"string.other.link"
 			],
 			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#f07178"
 			}
 		},
@@ -158,7 +168,8 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#FFFFFF"
+				"fontStyle": "bold",
+				"foreground": "#EEFFFF"
 			}
 		},
 		{
@@ -189,6 +200,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#6ab4f1"
 			}
 		},
@@ -198,6 +210,7 @@
 				"support.type"
 			],
 			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#B2CCD6"
 			}
 		},
@@ -212,6 +225,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#B2CCD6"
 			}
 		},
@@ -223,6 +237,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#FF5370"
 			}
 		},
