@@ -100,7 +100,8 @@
 				"meta.brace.round",
 				"meta.brace.square",
 				"constant.language.boolean",
-				"keyword.operator.increment"
+				"keyword.operator.increment",
+				"support.type.property-name"
 			],
 			"settings": {
 				"foreground": "#DA8278",
