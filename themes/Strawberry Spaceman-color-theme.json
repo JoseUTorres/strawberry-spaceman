@@ -70,7 +70,8 @@
 			"scope": [
 				"keyword",
 				"storage.type",
-				"storage.modifier"
+				"storage.modifier",
+				"support.type.property-name"
 			],
 			"settings": {
 				"fontStyle": "bold",
@@ -184,7 +185,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#6ab4f1"
+				"foreground": "#EEFFFF"
 			}
 		},
 		{
