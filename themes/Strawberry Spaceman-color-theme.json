@@ -20,7 +20,7 @@
 		"editorBracketMatch.background": "#94545d",
 		"editor.lineHighlightBackground": "#da82781e",
 		"editorLineNumber.activeForeground": "#da8278",
-		"editorLineNumber.foreground": "#87b9b8d0",
+		"editorLineNumber.foreground": "#87b9b8d0"
 	},
 	"tokenColors": [
 		{
@@ -129,7 +129,8 @@
 				"support.function",
 				"keyword.other.special-method",
 				"variable.other.object.js",
-				"support.type.property-name.json.comments"
+				"support.type.property-name.json.comments",
+				"variable.other.property"
 			],
 			"settings": {
 				"fontStyle": "bold",
